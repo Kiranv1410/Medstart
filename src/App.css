@@ -1,0 +1,19 @@
+.card{
+    margin: 80,!important;
+
+}
+
+.card:hover{
+    border: 3.5px solid ;
+    border-radius: 6px;
+    border-color: rgb(34 211 238)!important
+}
+
+nav.navbar.navbar-expand.navbar-light.bg-dark{
+    background-color: #7DC5FA,!important
+}
+/* .colum:hover{
+    border: 3.5px solid ;
+    border-radius: 6px;
+    border-color: rgb(34 211 238)!important
+} */
